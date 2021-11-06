@@ -6,7 +6,7 @@ This assignment involves building a web application that scrapes the latest data
 
 ## Tools Used
 
-HTML, CSS, Python (Jupyter notebook)
+Jupyter Notebook, Python, HTML, CSS
 
 ## Resources
 
