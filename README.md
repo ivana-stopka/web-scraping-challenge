@@ -22,3 +22,5 @@ Step 3: In the open HTML page, click the button 'Scrape New Data' to run a fresh
 
 Note: the scraping code was developed and tested in Jupyter Notebook - see file mission_to_mars.ipynb. If you get an error for chromedriver.exe (included in thsi repository), the version may differ from that of your Chrome version - if this occurs, download the correct chromedriver.exe. The files index.html and style.css and stored in the 'templates' folder. The screenshots of the final application are contained in the 'images' folder.
 
+## Resulting HTML Page
+![image](https://user-images.githubusercontent.com/86386401/140608321-1a52dc40-2118-44a2-b7d1-0da9be0704a8.png)
