@@ -2,7 +2,7 @@
 
 ## Background
 
-This assignment involves building a web application that scrapes the latest data from four different websites that contain data in relation to Mars and displays the information in a HTML page. 
+This assignment involves building a web application that scrapes the latest data from four different websites that relate to Mars and displays the information in a HTML page. 
 
 ## Tools Used
 
